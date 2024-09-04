@@ -71,6 +71,7 @@ body {
     background-color: var(--fundo-texto);
     border: 2px solid var(--borda);
     margin-top: 32px;
+    padding: 24px;
 
 }
 
@@ -167,7 +168,8 @@ label {
     background-color: #00ff85;
     width: 100%;
 }
-.parametro-senha-textos{
+
+.parametro-senha-textos {
     display: flex;
     justify-content: space-between;
 }
